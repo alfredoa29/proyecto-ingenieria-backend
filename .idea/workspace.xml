@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8860d42b-36f8-407f-a14b-bf7b4a4da2bf" name="Changes" comment="Cambios en la seguridad y paso a Angular2">
+      <change afterPath="$PROJECT_DIR$/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/._background2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/._background3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/background2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/background3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/controller/ConfiguracionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/demo/controller/ConfiguracionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/._user.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/img/._user.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/error/._403.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/img/error/._403.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.3.22/spring-web-5.3.22-sources.jar!/org/springframework/web/method/HandlerMethod.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.22/spring-webmvc-5.3.22-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-18.0.1.1/Contents/Home/lib/src.zip!/java.base/java/lang/Enum.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2Eec7jcGM22ZtiVwJIncSlnaKCT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_directory_selection&quot;: &quot;/Volumes/Alfredo/UNIVERSIDAD/Ingenieria en Sistemas 2/carpeta sin título/demo2/src/main/java/com/demo/service&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Volumes/Alfredo/UNIVERSIDAD/Ingenieria en Sistemas 2/PRROYECTO CASI FINAL COPIA/demo2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;fe01ce2a7fbac8fafaed7c982a04e229&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.demo.repository" />
+      <recent name="com.demo.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/templates/user-form" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/templates/vacacion-form" />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static/img/error" />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates/user-form" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.demo.entity" />
+      <recent name="com.example.demo.service" />
+      <recent name="com.demo.dto" />
+      <recent name="com.example.demo" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.demo.service" />
+      <recent name="com.demo.entity" />
+      <recent name="com.example.demo.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FechaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.service" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.service.FechaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FechaTest.calcularFecha" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.service" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.service.FechaTest" />
+      <option name="METHOD_NAME" value="calcularFecha" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FechaTest.validarFechas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.service" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.service.FechaTest" />
+      <option name="METHOD_NAME" value="validarFechas" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotificacionCorreoServiceImpTest.sendEmail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.service" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.service.NotificacionCorreoServiceImpTest" />
+      <option name="METHOD_NAME" value="sendEmail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolicitudVacacionServiceImpTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.service" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.service.SolicitudVacacionServiceImpTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.FechaTest.calcularFecha" />
+      <item itemvalue="JUnit.FechaTest.validarFechas" />
+      <item itemvalue="JUnit.NotificacionCorreoServiceImpTest.sendEmail" />
+      <item itemvalue="JUnit.SolicitudVacacionServiceImpTest" />
+      <item itemvalue="JUnit.FechaTest" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FechaTest.validarFechas" />
+        <item itemvalue="JUnit.FechaTest" />
+        <item itemvalue="JUnit.FechaTest.calcularFecha" />
+        <item itemvalue="JUnit.NotificacionCorreoServiceImpTest.sendEmail" />
+        <item itemvalue="JUnit.SolicitudVacacionServiceImpTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8860d42b-36f8-407f-a14b-bf7b4a4da2bf" name="Changes" comment="" />
+      <created>1662959329053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662959329053</updated>
+      <workItem from="1662959332820" duration="5007000" />
+      <workItem from="1663049023337" duration="13015000" />
+      <workItem from="1663134193364" duration="40108000" />
+      <workItem from="1663557948810" duration="21710000" />
+      <workItem from="1663626857222" duration="25330000" />
+      <workItem from="1664049056728" duration="963000" />
+      <workItem from="1664154048624" duration="1980000" />
+      <workItem from="1664168680593" duration="6692000" />
+      <workItem from="1664176093818" duration="5215000" />
+      <workItem from="1664393965584" duration="5355000" />
+      <workItem from="1664412107244" duration="15898000" />
+      <workItem from="1664608325395" duration="1460000" />
+      <workItem from="1664609955849" duration="1374000" />
+      <workItem from="1664611363700" duration="447000" />
+      <workItem from="1664611852555" duration="2140000" />
+      <workItem from="1664682020082" duration="13695000" />
+      <workItem from="1664996432187" duration="5795000" />
+      <workItem from="1665372207802" duration="11496000" />
+      <workItem from="1665424697280" duration="23734000" />
+      <workItem from="1665520116956" duration="21321000" />
+      <workItem from="1665622853657" duration="17936000" />
+      <workItem from="1665717390259" duration="12467000" />
+      <workItem from="1665800557214" duration="2371000" />
+      <workItem from="1665805541033" duration="6322000" />
+      <workItem from="1665812320090" duration="4316000" />
+      <workItem from="1665816899822" duration="1300000" />
+      <workItem from="1665818344884" duration="342000" />
+      <workItem from="1665818695827" duration="50000" />
+      <workItem from="1665818760669" duration="9831000" />
+      <workItem from="1665854006646" duration="23744000" />
+      <workItem from="1665906387029" duration="15932000" />
+      <workItem from="1665969659302" duration="2830000" />
+      <workItem from="1665972727288" duration="700000" />
+      <workItem from="1666026578554" duration="7819000" />
+      <workItem from="1666042943349" duration="11137000" />
+      <workItem from="1666068144135" duration="2033000" />
+      <workItem from="1666070444854" duration="257000" />
+      <workItem from="1666071005373" duration="14214000" />
+      <workItem from="1666222929505" duration="11459000" />
+      <workItem from="1666326003984" duration="7181000" />
+      <workItem from="1666394710583" duration="18463000" />
+      <workItem from="1666769518884" duration="11521000" />
+      <workItem from="1667030027702" duration="6375000" />
+      <workItem from="1667189475478" duration="15469000" />
+      <workItem from="1667320401392" duration="33186000" />
+      <workItem from="1667421545129" duration="11630000" />
+      <workItem from="1667540602601" duration="28811000" />
+      <workItem from="1667605445525" duration="368000" />
+      <workItem from="1667606108260" duration="166000" />
+      <workItem from="1667606689460" duration="19517000" />
+      <workItem from="1667712877574" duration="2559000" />
+      <workItem from="1667715690504" duration="3500000" />
+      <workItem from="1667790115102" duration="17260000" />
+      <workItem from="1667809102266" duration="70000" />
+      <workItem from="1667809190331" duration="47000" />
+      <workItem from="1667809257973" duration="1623000" />
+      <workItem from="1667880710385" duration="9615000" />
+      <workItem from="1668010887185" duration="3540000" />
+      <workItem from="1668015938462" duration="1841000" />
+      <workItem from="1668017868152" duration="2594000" />
+      <workItem from="1668027433391" duration="20001000" />
+      <workItem from="1668231260817" duration="128000" />
+      <workItem from="1668481020929" duration="2516000" />
+      <workItem from="1668485152993" duration="439000" />
+      <workItem from="1668485802357" duration="1087000" />
+      <workItem from="1668986073754" duration="10838000" />
+      <workItem from="1669002432229" duration="12862000" />
+      <workItem from="1669016265915" duration="4569000" />
+      <workItem from="1669044016163" duration="485000" />
+      <workItem from="1669141857144" duration="22255000" />
+      <workItem from="1669187279353" duration="13000" />
+      <workItem from="1669228251528" duration="7299000" />
+      <workItem from="1674623060906" duration="7000" />
+      <workItem from="1674627255243" duration="32000" />
+      <workItem from="1675453251927" duration="165000" />
+      <workItem from="1675630424745" duration="30380000" />
+      <workItem from="1675708087519" duration="41483000" />
+      <workItem from="1675971872017" duration="6717000" />
+      <workItem from="1675997629988" duration="17640000" />
+      <workItem from="1676170737648" duration="20923000" />
+      <workItem from="1676315075654" duration="17192000" />
+      <workItem from="1676572776417" duration="4494000" />
+      <workItem from="1676672779721" duration="15778000" />
+      <workItem from="1676855438317" duration="8343000" />
+      <workItem from="1676950937494" duration="892000" />
+      <workItem from="1677012099321" duration="4117000" />
+      <workItem from="1677031277648" duration="10181000" />
+      <workItem from="1677087984918" duration="6236000" />
+      <workItem from="1677123191224" duration="3159000" />
+      <workItem from="1677131720923" duration="3210000" />
+      <workItem from="1677136843339" duration="23000" />
+      <workItem from="1677136982896" duration="1265000" />
+    </task>
+    <task id="LOCAL-00001" summary="updated classes and html">
+      <created>1665973331680</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665973331681</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated classes and html 2">
+      <created>1666116368615</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666116368615</updated>
+    </task>
+    <task id="LOCAL-00003" summary="addded  Fecha class and html 2">
+      <created>1666336441004</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666336441004</updated>
+    </task>
+    <task id="LOCAL-00004" summary="addded  new info">
+      <created>1667373535751</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667373535751</updated>
+    </task>
+    <task id="LOCAL-00005" summary="addded  new info2">
+      <created>1667375632124</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667375632124</updated>
+    </task>
+    <task id="LOCAL-00006" summary="addded  new tests">
+      <created>1667719300540</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667719300540</updated>
+    </task>
+    <task id="LOCAL-00007" summary="addded  new clases and updates">
+      <created>1667884301657</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667884301657</updated>
+    </task>
+    <task id="LOCAL-00008" summary="arreglo de tablas">
+      <created>1667889494176</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667889494176</updated>
+    </task>
+    <task id="LOCAL-00009" summary="cambio en enviar correo">
+      <created>1667894418728</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667894418728</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Actualizacion en los tests">
+      <created>1668013974770</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668013974770</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Actualizacion en los html y clases del metodo rechazar">
+      <created>1668022937001</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668022937001</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Actualizacion en los html">
+      <created>1668032182624</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1668032182624</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Actualizacion en los html">
+      <created>1668231373158</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1668231373159</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Actualizacion en los html y quitar home">
+      <created>1668497309955</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1668497309955</updated>
+    </task>
+    <task id="LOCAL-00015" summary="cambios en el html y correos">
+      <created>1669235786548</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1669235786549</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Cambios en la seguridad y paso a Angular">
+      <created>1677130616467</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1677130616467</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="103d635a-981c-4d02-85c5-4fe50272ba80">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="51d16f32-b348-4986-a530-feafa52192e3">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/Volumes/Alfredo/UNIVERSIDAD/Ingenieria en Sistemas 2/carpeta sin título/demo2/src/main/java/com/demo" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="53dd5dfa-80a2-45f2-b2bf-b4cf575ac7a9">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/Volumes/Alfredo/UNIVERSIDAD/Ingenieria en Sistemas 2/carpeta sin título/demo2/src/main/java/com/demo/Configuraciones" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="103d635a-981c-4d02-85c5-4fe50272ba80" value="TOOL_WINDOW" />
+        <entry key="51d16f32-b348-4986-a530-feafa52192e3" value="TOOL_WINDOW" />
+        <entry key="53dd5dfa-80a2-45f2-b2bf-b4cf575ac7a9" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated classes and html" />
+    <MESSAGE value="updated classes and html 2" />
+    <MESSAGE value="addded  Fecha class and html 2" />
+    <MESSAGE value="addded  new info" />
+    <MESSAGE value="addded  new info2" />
+    <MESSAGE value="addded  new tests" />
+    <MESSAGE value="addded  new clases and updates" />
+    <MESSAGE value="arreglo de tablas" />
+    <MESSAGE value="cambio en enviar correo" />
+    <MESSAGE value="Actualizacion en los tests" />
+    <MESSAGE value="Actualizacion en los html y clases del metodo rechazar" />
+    <MESSAGE value="Actualizacion en los html" />
+    <MESSAGE value="Actualizacion en los html y quitar home" />
+    <MESSAGE value="cambios en el html y correos" />
+    <MESSAGE value="Cambios en la seguridad y paso a Angular" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cambios en la seguridad y paso a Angular" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="javax.validation.ConstraintViolationException" package="javax.validation" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/demo/UserRepositoryTest.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/demo/UserRepositoryTest.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/demo/UserRepositoryTest.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/demo/UserRepositoryTest.java</url>
+          <line>117</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/demo/UserRepositoryTest.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/demo/UserRepositoryTest.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/demo/service/UserServiceImplTest.java</url>
+          <line>127</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/demo/service/UserServiceImplTest.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/demo/service/SolicitudVacacionServiceImpTest.java</url>
+          <line>205</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/demo/service/SolicitudVacacionServiceImpTest.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/demo/service/SolicitudVacacionServiceImpTest.java</url>
+          <line>250</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/demo/service/SolicitudVacacionServiceImpTest.java</url>
+          <line>195</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/demo/service/SolicitudVacacionServiceImpTest.java</url>
+          <line>327</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/demo/service/FechaTest.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/demo/service/SolicitudVacacionServiceImpTest.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/demo/service/SolicitudVacacionServiceImpTest.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/demo/service/FechaTest.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.22/spring-core-5.3.22-sources.jar!/org/springframework/cglib/proxy/MethodProxy.java</url>
+          <line>199</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/demo/service/ControladorEventos.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/demo/service/ControladorEventos.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/demo/service/Editor.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="282" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/demo/controller/UserController.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/demo/controller/UserController.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="297" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/demo/controller/UserController.java</url>
+          <line>40</line>
+          <properties class="com.demo.controller.UserController" method="actualizarUsuario">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="296" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.springframework.aop.framework.JdkDynamicAopProxy" memberName="advised" />
+        <PinnedItemInfo parentTag="com.demo.entity.QuioscoPersonal$HibernateProxy$21oeSvGc" memberName="id" />
+        <PinnedItemInfo parentTag="com.example.demo.WebSecurityConfig$$EnhancerBySpringCGLIB$$a475f0c1" memberName="bCryptPasswordEncoder" />
+        <PinnedItemInfo parentTag="com.demo.service.SolicitudVacacionImp" memberName="solicitudVacacionRepository" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="solicitudVacacion.fechaCreacion" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/demo2$FechaTest_calcularFecha.ic" NAME="FechaTest.calcularFecha Coverage Results" MODIFIED="1666334172162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.demo.entity.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/demo$UserRepositoryTest_getUserById.ic" NAME="UserRepositoryTest.getUserById Coverage Results" MODIFIED="1664610655976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.*</FILTER>
+    </SUITE>
+  </component>
+</project>
